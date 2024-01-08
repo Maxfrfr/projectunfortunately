@@ -48,7 +48,7 @@ body {
 .infoHeader {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items:center;
     background-color: #1B263B;
     flex-wrap: wrap;
     padding-top: 75px;
@@ -60,7 +60,7 @@ body {
     height: auto;
     padding: 20px;
     padding-right: 100px;
-    padding-left: 750px;
+    padding-left: 200px;
 }
 
 .headerText {
